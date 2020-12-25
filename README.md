@@ -1,24 +1,35 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+Dockerを用いたローカル環境での開発
 
-Things you may want to cover:
+### サイトテーマ
+未定なので決まり次第記入
 
-* Ruby version
+### テーマを選んだ理由
+Dockerを用いて開発を行ってみたかったから
 
-* System dependencies
+### ターゲットユーザ
+未定なので決まり次第記入
 
-* Configuration
+### 主な利用シーン
+未定なので決まり次第記入
 
-* Database creation
+### 機能一覧
+未定なので決まり次第記入
 
-* Database initialization
+## 開発環境
 
-* How to run the test suite
+### フロントエンド
+* Bootstrap
+* SCSS (BEM)
+* JavaScript、jQuery、Ajax
 
-* Services (job queues, cache servers, search engines, etc.)
+### バックエンド
+* Ruby 2.６.6
+* Rails 6.0.3.4
 
-* Deployment instructions
-
-* ...
+### 開発環境
+* Vagrant 2.2.4
+* Docker/Docker-compose
+* MySQL2
