@@ -8,4 +8,5 @@ class Book < ApplicationRecord
   # リレーションの定義　多対多
   has_many :book_authors
   has_many :authors, through: :book_authors
+  
 end
